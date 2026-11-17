@@ -1,0 +1,31 @@
+{
+  "name": "ui-remix",
+  "version": "1.0.0",
+  "description": "UI REMIX: one all-in-one UI/UX design skill for Claude Code and other AI agents, remixed from 60+ design skills.",
+  "bin": {
+    "ui-remix": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "skill",
+    "NOTICE.md"
+  ],
+  "keywords": [
+    "claude-code",
+    "skill",
+    "agent-skill",
+    "ui",
+    "ux",
+    "design",
+    "frontend",
+    "design-system"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs4t/ui-remix.git"
+  },
+  "engines": {
+    "node": ">=16.7"
+  },
+  "license": "SEE LICENSE IN NOTICE.md"
+}
